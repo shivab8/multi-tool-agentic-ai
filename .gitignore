@@ -1,0 +1,20 @@
+# Environments
+.env
+
+# SQLite Databases
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
+
+# Vector Stores
+FAISS_local/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/

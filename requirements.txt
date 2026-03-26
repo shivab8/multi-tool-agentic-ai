@@ -1,0 +1,10 @@
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+langchain-mcp-adapters
+streamlit
+aiosqlite
+requests
+python-dotenv
+faiss-cpu
