@@ -15,7 +15,7 @@ A state-of-the-art Agentic AI application built with **LangGraph**, **Streamlit*
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/shivab8/multi-tool-agentic-ai.git
-   cd multi-tool-ai-agent
+   cd multi-tool-agentic-ai
    ```
 
 2. **Install dependencies:**
